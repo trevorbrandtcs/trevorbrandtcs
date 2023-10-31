@@ -1,4 +1,4 @@
-<h1>Hi, I'm Trevor, an <a href="https://www.linkedin.com/in/trevorbrandt--/">IT Professional</a>☺</h1>
+<h1>Hi, I'm Trevor, an <a href="https://www.linkedin.com/in/trevorbrandt--/">IT Professional and CS Student</a>☺</h1>
 
 <h2>👨‍💻 Computer Science and Information Technology Projects:</h2>
 
