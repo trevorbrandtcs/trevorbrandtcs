@@ -5,7 +5,7 @@
 - <b>CS Projects:</b>
   - Corner Grocer Inventory Management
   - Airgead Banking Investment Calculator
-  - Chada Tech Clock
+  - [Chada Tech Clock](https://github.com/trevorbrandtcs/chadatech)
 - <b>Microsoft Azure</b>
   - [Configuring On-premises Active Directory within Azure VMs](https://github.com/trevorbrandtcs/configure-ad)
   - [Building Intuition With DNS](https://github.com/TrevorBrandtcs/dns-intuition)
