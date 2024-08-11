@@ -2,8 +2,13 @@
 
 <h2>👨‍💻 Computer Science and Information Technology Projects:</h2>
 
-- <b>CS Projects:</b>
-  - Corner Grocer Inventory Management
+- <b>Cybersecurity</b>
+  - [File Integrity Monitor Demo (FIM)](https://github.com/TrevorBrandtcs/fim-demo)
+  - More on the way, including honey nets, mock SIEMs, and more!
+- <b>Java Projects:</b>
+  -Coming Soon!
+- <b>C++ Projects:</b>
+  - [Corner Grocer Inventory Management](https://github.com/trevorbrandtcs/cornergrocer)
   - [Airgead Banking Investment Calculator](https://github.com/trevorbrandtcs/airgeadbanking)
   - [Chada Tech Clock](https://github.com/trevorbrandtcs/chadatech)
 - <b>Microsoft Azure</b>
@@ -15,9 +20,6 @@
   - [osTicket: Prerequisites and Installation](https://github.com/trevorbrandtcs/osticket-prereqs)
   - [osTicket: Post-Installation Configuration](https://github.com/trevorbrandtcs/post-install-config)
   - [osTicket: Ticket Lifecycle Examples](https://github.com/trevorbrandtcs/ticket-lifecycle)
-- <b>Cybersecurity</b>
-  - [File Integrity Monitor Demo (FIM)](https://github.com/TrevorBrandtcs/fim-demo)
-
 
 
 <h2>🤳Connect with me:</h2>
