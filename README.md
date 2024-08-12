@@ -6,7 +6,7 @@
   - [File Integrity Monitor Demo (FIM)](https://github.com/TrevorBrandtcs/fim-demo)
   - More on the way, including honey nets, mock SIEMs, and more!
 - <b>Java Projects:</b>
-  -Basic Mortage Calculator
+  - [Basic Mortage Calculator](https://github.com/trevorbrandtcs/basicmortgagecalc)
 - <b>C++ Projects:</b>
   - [Corner Grocer Inventory Management](https://github.com/trevorbrandtcs/cornergrocer)
   - [Airgead Banking Investment Calculator](https://github.com/trevorbrandtcs/airgeadbanking)
